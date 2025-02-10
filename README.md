@@ -125,7 +125,7 @@ I have written a bash script to automate the simulation called network_simulatio
 
 - Make it executable: chmod +x network_simulation.sh
 - Run it with:
-    - ./network_simulation.sh      - Shows usage (no argument provided)
+    - ./network_simulation.sh  - (no argument provided)
 
     *Output:*
 
